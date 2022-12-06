@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="display: flex; justify-content: space-between; background-color: #ded; padding: 1em; align-content: flex-start; margin-bottom: 1em; border-radius: 0.2em;">
+  <div style="flex: 1">
+    <h2>Pekka Tapio Aalto</h2>
+    <p>Jokaisessa meissä asuu pieni koodaaja.</p>
+  </div>
+  <div style="width: 300px;">
+   <img src="person.png" alt="" style="margin-left: 1em; width: 300px;">
+  </div>
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pekkatapio&layout=compact)](https://github.com/pekkatapio)
