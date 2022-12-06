@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 ![](banner.png)
 
-<center>
+<div align="center">
 <a href="https://www.linkedin.com/in/pekka-tapio-aalto/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ptaalto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-</center>
+</div>
 
 
 ### 🔧 Tools & technologies
